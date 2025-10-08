@@ -9,7 +9,7 @@ This project was carried out as part of the **Big Data Processing** course and w
 
 ---
 
-## 📂 Content
+## Content
 
 This repository contains two main projects, and all the related files are included here:
 
