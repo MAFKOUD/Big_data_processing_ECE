@@ -9,12 +9,13 @@ This project has two objectives:
 2. Set up a **stream processing** pipeline on Wikimedia events  
    in order to track pages related to certain entities (movies, people, genres).
 
-The work is carried out by a group of 4 students:
+The work is carried out by a group of 5 students:
 
 - Berkani Mohammed Adam  
 - Bellouch Ayoub  
 - Mafkoud Khouala  
-- Hamid Hiba  
+- Hamid Hiba
+- Brunel Nangoum-Tchatchoua
 
 The main code is contained in the notebook:
 
@@ -203,3 +204,4 @@ From the project root:
 pip install -r requirements.txt   # if you have defined a dependency file
 # then
 python wikimedia_stream.py
+
