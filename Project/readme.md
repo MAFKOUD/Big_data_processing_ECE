@@ -28,9 +28,7 @@ The streaming part is implemented in:
 
 ## 2. IMDb data
 
-The IMDb files used are stored in the folder:
-
-- `data/`
+The IMDb files were taken from the Teacher's datasets, they contain:
 
 Main files:
 
@@ -39,12 +37,6 @@ Main files:
 - `title.ratings.tsv`
 - `title.crew.tsv`
 - `title.akas.tsv` (loaded in chunks due to its size)
-
-> Note: some large files (`title.akas.tsv`, `title.principals.tsv`)  
-> cannot be fully loaded into memory.  
-> For these files, we use **chunked reading** (`chunksize`)  
-> only for the records that are needed (for example, the alternative titles  
-> of the best comedy movie).
 
 ---
 
@@ -246,5 +238,6 @@ From the project root:
 - Designed the event and alert formats (wiki_events.csv, wiki_alerts.csv).
 
 - Contributed to the README documentation and final project review (Git repository, file organization).
+
 
 
