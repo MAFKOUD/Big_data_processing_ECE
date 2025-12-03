@@ -130,7 +130,7 @@ All numeric answers are summarized again in **Markdown** cells in the notebook.
 
 ---
 
-## 4. Part 2 – Wikimedia stream processing
+## 4. Wikimedia stream processing
 
 The streaming part is implemented in the script:
 
@@ -246,4 +246,5 @@ From the project root:
 - Designed the event and alert formats (wiki_events.csv, wiki_alerts.csv).
 
 - Contributed to the README documentation and final project review (Git repository, file organization).
+
 
