@@ -201,10 +201,9 @@ A `[ALERT]` message is also printed in the console.
 From the project root:
 
 - pip install -r requirements.txt   # if you have defined a dependency file
-# then
 - python wikimedia_stream.py
 
-### 5 Individual contributions
+### 5. Individual contributions
 
 - Each group member contributed to specific parts of the project:
 
@@ -247,3 +246,4 @@ From the project root:
 - Designed the event and alert formats (wiki_events.csv, wiki_alerts.csv).
 
 - Contributed to the README documentation and final project review (Git repository, file organization).
+
