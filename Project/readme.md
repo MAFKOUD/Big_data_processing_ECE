@@ -225,19 +225,20 @@ From the project root:
 
 ### Hamid Hiba
 
-- Wrote and structured the Markdown explanations for all questions (Q1–Q10).
-
-- Ensured that each answer is clearly documented and understandable in English.
-
-- Helped with testing and verifying that the notebook runs from top to bottom.
-
-### Brunel Nangoum-Tchatchoua
-
 - Developed and tested the wikimedia_stream.py streaming script.
 
 - Designed the event and alert formats (wiki_events.csv, wiki_alerts.csv).
 
-- Contributed to the README documentation and final project review (Git repository, file organization).
+- Ensured that all notebooks and scripts run successfully from start to finish.
+
+### Brunel Nangoum-Tchatchoua
+
+- Added placeholder filenames and notes for potential future streaming features.
+
+- Performed a light review of the repository structure and formatting.
+  
+- Wrote and structured the Markdown explanations for Q1–Q10.
+
 
 
 
