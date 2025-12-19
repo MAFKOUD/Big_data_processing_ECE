@@ -6,6 +6,7 @@ This project was carried out as part of the **Big Data Processing** course and w
 - **Mafkoud Khaoula**  
 - **Hamid Hiba**  
 - **Mohammed Adam Berkani**
+- ** Brunel Nangoum-Tchatchoua**
 
 ---
 
